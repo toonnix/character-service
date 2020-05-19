@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../location-service"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../game-engine"
+		}
+	],
+	"settings": {}
+}
